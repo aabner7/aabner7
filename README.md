@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on an open code project.  
-- 📫 How to reach me: andreabner7@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/aabner7/
 
 <!---
 aabner7/aabner7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
